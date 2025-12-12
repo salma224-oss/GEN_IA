@@ -113,4 +113,3 @@ Les contributions sont les bienvenues ! Veuillez ouvrir une issue pour discuter 
 
 ## 📄 Licence
 
-Ce projet est sous licence MIT.
