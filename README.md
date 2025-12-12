@@ -110,3 +110,9 @@ Accédez à l'application sur [http://localhost:3000](http://localhost:3000).
 Les contributions sont les bienvenues ! Veuillez ouvrir une issue pour discuter des changements majeurs avant de soumettre une Pull Request.
 
 ---
+<<<<<<< HEAD
+=======
+
+## 📄 Licence
+
+>>>>>>> 69db375c958784f1cfdec7ab4b1cae2dd2a56a1c
